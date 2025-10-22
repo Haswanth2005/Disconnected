@@ -37,11 +37,11 @@ We are enthusiastic programmers who:
 ## 📫 Get in Touch
 
 - **Nikhil Bikkanoori**
-  - GitHub: [NikhilBikkanoori]
+  - GitHub: [@NikhilBikkanoori]
   - Email: [nikhilbikkanoori@gmail.com]
 
 - **Haswanth Makthala**
-  - GitHub: [Haswanth2005]
+  - GitHub: [@Haswanth2005]
   - Email: [maktalahaswanth@gmail.com]
 
 
