@@ -21,7 +21,6 @@ We are enthusiastic programmers who:
 
 ### Backend
 - Node.js
-- Express.js
 
 ### Databases
 - MongoDB
